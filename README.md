@@ -9,7 +9,7 @@ It's a responsive webpage
 For PC:-
 
 
-\![STATS-1](https://user-images.githubusercontent.com/68504613/121993452-2189e700-cdc1-11eb-8712-36ca3009b70b.jpg)
+![STATS-1](https://user-images.githubusercontent.com/68504613/121993452-2189e700-cdc1-11eb-8712-36ca3009b70b.jpg)
 
 for Mobile:-
 
